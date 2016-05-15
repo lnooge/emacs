@@ -13,7 +13,7 @@
 2. Flycheck
 3. solarized-theme
 4. ido (emacs自带）
-
+5. web-mode 
  
 
 # package 启用方法 
@@ -31,6 +31,7 @@
 * Solarized-theme
    这个是配色方案，使用package安装，让后在init.el文件中使用 (load XXXX)进行加载自己喜欢的配色**.el文件即可。
 
-
+* web-mode
+  使用package进行安装，web-mode.org 官网有配置教程
 
 
