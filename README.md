@@ -9,10 +9,10 @@
 我的 init.el 在~/.emacs.d/lisp/init.el 
 
 # 我所使用的 package 
-1.jedi
-2.Flycheck
-3.solarized-theme
-4.ido (emacs自带）
+1. jedi
+2. Flycheck
+3. solarized-theme
+4. ido (emacs自带）
 
  
 
