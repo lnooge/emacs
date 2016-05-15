@@ -1,1 +1,2 @@
-; emacs的配置文件.emacs
+;; 加载初始化文件
+(load "~/.emacs.d/lisp/init.el")
