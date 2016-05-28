@@ -34,4 +34,7 @@
 * web-mode
   使用package进行安装，web-mode.org 官网有配置教程
 
-
+* monokai-theme.el 配色方案
+  使用方法：
+  （load "~/.emacs.d/lisp/monokai-theme.el")
+  网址：https://github.com/oneKelvinSmith/monokai-emacs
